@@ -4,9 +4,14 @@
 
 A lightweight browser extension that translates YouTube subtitles in real-time to Chinese or other languages.
 
-[![Demo Video](https://img.youtube.com/vi/tbZKdEU6Z9o/maxresdefault.jpg)](https://youtu.be/tbZKdEU6Z9o)
+## 🎥 Demo Video
 
-🎥 [Watch Demo Video](https://youtu.be/tbZKdEU6Z9o)
+<div align="center">
+  <a href="https://youtu.be/tbZKdEU6Z9o">
+    <img src="https://img.youtube.com/vi/tbZKdEU6Z9o/maxresdefault.jpg" alt="Demo Video" style="width:100%;max-width:800px;">
+  </a>
+  <p><em>Click to watch the demo video</em></p>
+</div>
 
 ## ✨ Features
 
@@ -21,20 +26,22 @@ A lightweight browser extension that translates YouTube subtitles in real-time t
 
 ### Chrome / Edge
 
-1. Download or clone this repository
-2. Open your browser and navigate to `chrome://extensions/`
-3. Enable "Developer mode" in the top right corner
-4. Click "Load unpacked extension"
-5. Select the `youtube-translator-extension` folder
-6. Done! The extension icon will appear in your toolbar
+1. Download the [latest release](https://github.com/orange2ai/youtube-subtitle-translator/releases/latest)
+2. Extract the zip file
+3. Open your browser and navigate to `chrome://extensions/`
+4. Enable "Developer mode" in the top right corner
+5. Click "Load unpacked extension"
+6. Select the extracted folder
+7. Done! The extension icon will appear in your toolbar
 
 ### Firefox
 
-1. Download or clone this repository
-2. Open your browser and navigate to `about:debugging#/runtime/this-firefox`
-3. Click "Load Temporary Add-on"
-4. Select the `manifest.json` file in the extension folder
-5. Done!
+1. Download the [latest release](https://github.com/orange2ai/youtube-subtitle-translator/releases/latest)
+2. Extract the zip file
+3. Open your browser and navigate to `about:debugging#/runtime/this-firefox`
+4. Click "Load Temporary Add-on"
+5. Select the `manifest.json` file in the extracted folder
+6. Done!
 
 ## 🎮 Usage
 
