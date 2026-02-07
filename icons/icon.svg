@@ -1,0 +1,11 @@
+<!-- SVG 图标占位符 - 可以用在线工具转换为 PNG -->
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景 -->
+  <rect width="128" height="128" rx="20" fill="#FF0000"/>
+  
+  <!-- YouTube 播放按钮 -->
+  <polygon points="45,35 45,93 90,64" fill="white"/>
+  
+  <!-- 翻译符号 (A→中) -->
+  <text x="64" y="115" font-size="24" fill="white" text-anchor="middle" font-family="Arial, sans-serif" font-weight="bold">A→中</text>
+</svg>

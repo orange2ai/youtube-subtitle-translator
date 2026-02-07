@@ -1,0 +1,41 @@
+/* YouTube 实时字幕翻译 - 样式 */
+
+#yt-translated-subtitle {
+  position: absolute;
+  bottom: 80px; /* 在原字幕上方 */
+  left: 0;
+  right: 0;
+  text-align: center;
+  pointer-events: none;
+  z-index: 9999;
+}
+
+#yt-translated-subtitle .ytp-caption-window-bottom {
+  display: inline-block;
+  padding: 0;
+}
+
+#yt-translated-subtitle .captions-text {
+  font-size: 20px;
+  font-family: "YouTube Noto", Roboto, "Arial Unicode Ms", Arial, Helvetica, Verdana, "PT Sans Caption", sans-serif;
+  font-weight: normal;
+  color: #fff;
+  background-color: rgba(8, 8, 8, 0.75);
+  padding: 2px 8px;
+  border-radius: 2px;
+  display: inline-block;
+  line-height: 1.3;
+}
+
+#yt-translated-subtitle .ytp-caption-segment {
+  display: inline;
+}
+
+/* 全屏模式适配 */
+.ytp-fullscreen #yt-translated-subtitle {
+  bottom: 120px;
+}
+
+.ytp-fullscreen #yt-translated-subtitle .captions-text {
+  font-size: 28px;
+}
