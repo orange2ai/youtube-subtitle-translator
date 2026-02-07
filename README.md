@@ -4,7 +4,9 @@
 
 A lightweight browser extension that translates YouTube subtitles in real-time to Chinese or other languages.
 
-![Demo](https://via.placeholder.com/800x400?text=Demo+Screenshot)
+[![Demo Video](https://img.youtube.com/vi/tbZKdEU6Z9o/maxresdefault.jpg)](https://youtu.be/tbZKdEU6Z9o)
+
+🎥 [Watch Demo Video](https://youtu.be/tbZKdEU6Z9o)
 
 ## ✨ Features
 
